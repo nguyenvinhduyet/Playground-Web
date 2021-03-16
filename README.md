@@ -1,8 +1,8 @@
 
 # Learn HTML, CSS by Landing-Page examples.
 
-## Font: Poppins 
-## Icon: fontawesome
+     ### Font: Poppins 
+     ### Icon: fontawesome
 
 ## Playground-Web 
 
